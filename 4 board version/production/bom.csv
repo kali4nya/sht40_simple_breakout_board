@@ -1,0 +1,5 @@
+﻿Designator,Footprint,Quantity,Value,LCSC Part #
+"C1_4, C1_3, C1_2, C1",0603,4,100nF,
+"J1_4, J1_3, J1_2, J1",PinHeader_1x04_P2.54mm_Vertical,4,Conn_01x04,
+"R1_4, R1_3, R1_2, R1, R2_4, R2_3, R2_2, R2",0603,8,10k,
+"U1_4, U1_3, U1_2, U1",Sensirion_DFN-4_1.5x1.5mm_P0.8mm_SHT4x_NoCentralPad,4,SHT4x,
